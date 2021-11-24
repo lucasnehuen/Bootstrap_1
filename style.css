@@ -1,0 +1,13 @@
+h1{
+    color: rgb(21, 255, 0);
+    text-align: center;
+}
+body{
+    background-image: url("/imagenes/maquinitas.jpg");
+}
+.col{
+    color: violet;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
